@@ -9,7 +9,7 @@ import Non_rest from './component/non_rest';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/food-delivery-app">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
