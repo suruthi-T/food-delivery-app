@@ -3,7 +3,7 @@ import Home from './component/Home';
 import Login from './component/Login';
 import SignUp from './component/SignUp';
 import Items from './component/Items';
-import Veg_rest from './component/veg_rest';
+import Veg_rest from './component/Veg_rest';
 import Non_rest from './component/non_rest';
 
 
