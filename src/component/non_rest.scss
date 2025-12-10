@@ -1,0 +1,49 @@
+.non-section{
+    background-color: rgb(241, 96, 6);
+}
+.non-rest-container{
+ width: 100%;
+margin: auto;    
+max-width: 1200px;
+padding: 20px;
+
+
+}
+.non-rat-icon{
+    width: 18px;
+    height: 18px;
+    border-radius: 8px;
+    margin-right: 6px;
+}
+h3{
+    color: rgb(228, 14, 14);
+    font-weight: 800;
+}
+.non-parent{
+    display: flex;
+    gap: 60px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 8px;
+}
+p{
+    color: grey;
+    font-size: 18px;
+}
+.non-food-img{
+    height: 250px;
+    width: 250px;
+    border-radius: 8px;
+}
+.search{
+    width: 80%;
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 20px;
+    
+}
+
+

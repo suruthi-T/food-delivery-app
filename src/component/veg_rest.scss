@@ -1,0 +1,60 @@
+
+.section{
+    background-color: rgb(241, 96, 6);
+}
+.veg-rest-container{
+ width: 100%;
+margin: auto;    
+max-width: 1200px;
+padding: 20px;
+
+
+}
+.rat-icon{
+    width: 18px;
+    height: 18px;
+    border-radius: 8px;
+    margin-right: 6px;
+}
+h3{
+    color: green;
+    font-weight: 800;
+}
+.veg-parent{
+    display: flex;
+    gap: 60px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 8px;
+}
+p{
+    color: grey;
+    font-size: 18px;
+}
+.food-img{
+    width: 250px;
+    border-radius: 8px;
+}
+.food-img2{
+    height: 250px;
+    width: 250px;
+    border-radius: 8px;
+}
+.back-arrow{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.top-bar{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
